@@ -1,0 +1,10 @@
+- title: Social
+  links:
+    - name: Howling Herbs
+      link: 'https://www.facebook.com/HowlingHerbs/'
+      new_window: true
+      social_icon: Facebook
+    - name: "@HowlingHerbs"
+      link: 'https://twitter.com/howlingherbs'
+      new_window: true
+      social_icon: Twitter
