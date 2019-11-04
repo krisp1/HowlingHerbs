@@ -7,7 +7,7 @@ GEM
     ffi (1.9.18)
     ffi (1.9.18-x64-mingw32)
     forwardable-extended (2.6.0)
-    jekyll (3.5.2)
+    jekyll (3.6.3)
       addressable (~> 2.4)
       colorator (~> 1.0)
       jekyll-sass-converter (~> 1.0)
@@ -51,7 +51,7 @@ PLATFORMS
   x64-mingw32
 
 DEPENDENCIES
-  jekyll (~> 3.5.0)
+  jekyll (~> 3.6.3)
   jekyll-seo-tag (~> 2.3.0)
   jekyll-sitemap (~> 1.1.0)
 
