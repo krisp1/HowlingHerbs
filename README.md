@@ -1,2 +1,2 @@
 # Howlingherbs
-Jekyll - Cloudcannon - Snipcart - e-commerce site
+Jekyll - Shopify - e-commerce site
